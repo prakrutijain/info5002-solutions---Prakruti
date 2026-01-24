@@ -6,7 +6,7 @@ Briefly describe the objectives of the Lab Module:
 
 1) hi this is an awesome class with professor Andrew
 
-2) 
+2) test
 
 3) 
 
