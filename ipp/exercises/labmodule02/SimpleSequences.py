@@ -28,7 +28,7 @@ for item in immutable_class_items:
 
 print()
 
-# Test 4: rangeiteration
+# Test 4: range iteration
 
 simple_range = range(10)
 bounded_range = range(1,11)
@@ -41,6 +41,8 @@ print()
 
 for number in bounded_range:
     print(f"Num: {number}")
+    
 print()
+
 for number in stepwise_range:
     print(f"Num: {number}")
