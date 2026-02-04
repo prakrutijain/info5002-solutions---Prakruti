@@ -57,7 +57,7 @@ def convertTempCtoF(tempInC: float = 0.0):
     Algorithm: F = C x (9/5) + 32
     '''
     tempInF = tempInC * (9 / 5) + 32
-    tempInF = round(tempInF, 2)
+    tempInF = round(tempInF, 1)
 
     print(f"{tempInC}°C is {tempInF}°F")
 
