@@ -113,7 +113,7 @@ def main():
     # Call Function 4: Remove
     removeItemsFromDictionary(masterDict, "peaches")
     
-    print("-" * 30)
+    print("-" * 30)         #tried something new here to make the final output stand out more clearly
     print(f"FINAL TERMINAL OUTPUT: {masterDict}")
     print("-" * 30)
 
